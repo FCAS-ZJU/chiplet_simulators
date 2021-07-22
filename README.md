@@ -1,6 +1,6 @@
-# chiplet_simulaters
+# chiplet_simulators
 
-A list of our chiplet simulaters:
+A list of our chiplet simulators:
 
 1. Sniper https://github.com/FCAS-SCUT/Chiplet_sniper
 2. gem5 https://github.com/FCAS-SCUT/Chiplet-Gem5-sharedMemory
